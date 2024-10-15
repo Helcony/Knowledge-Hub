@@ -4,7 +4,7 @@
 </h1> 
 
   <p align="center">
-    <img height="150" src="https://cdn.discordapp.com/attachments/1292922946863763547/1293701667253915658/library_github.gif?ex=67085511&is=67070391&hm=bfb90e623f61bc4665ecf3e264a4ecaba5e39d10b38294948052794dae938c4f&">
+    <img height="150" src="https://github.com/Helcony/Knowledge-Hub/blob/main/Imgs/hub.gif">
   </p>
 
 
