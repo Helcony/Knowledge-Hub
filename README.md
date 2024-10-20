@@ -8,12 +8,14 @@
   </p>
 
 
-  Welcome! This repository is dedicated to sharing my study notes and projects related to **DevSecOps**, **Application Security**, and **Cloud Security**.
+  Welcome! This repository is dedicated to sharing my study notes and projects related to **DevSecOps**, **Automation**, **Application Security**, and **Cloud Security**.
 
   ## What you'll find
 
-  The Hub is organized into three major areas, each containing study notes, links to hands-on projects and repositories, and curated resources and tools:
+  The Hub is organized into four major areas, each containing study notes, links to hands-on projects and repositories, and curated resources and tools:
   - **DevSecOps**: Security in CI/CD, automation of security processes, integration of security into DevOps.
+
+  - **Automation**: Python-based automation for security tasks, from basic scripting to advanced workflows.
   
   - **AppSec**: Application security practices, secure coding, pentesting, vulnerability management.
     
